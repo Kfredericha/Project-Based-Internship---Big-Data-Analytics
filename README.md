@@ -16,6 +16,7 @@ Without a consolidated dataset, it becomes challenging to evaluate:
 This project aims to integrate these datasets into a unified analytical table to enable efficient analysis and visualization.
 
 ## Dataset
+[Download Dataset](https://drive.google.com/drive/folders/1DNBK01xV5ymcsyghBO2VBII7bxacGtt0?usp=sharing)
 The analysis uses four main datasets:
 
 1. Final Transaction
@@ -44,3 +45,49 @@ Contains branch information:
 4. Inventory
 Contains product inventory information per branch.
 
+## Dashboard
+[Full Dashboard](https://lookerstudio.google.com/reporting/2975706f-dccd-4a65-bedb-45ad64e08a43)
+An interactive dashboard was created in Looker Studio to visualize business performance.
+The dashboard includes:
+- Total Sales
+- Total Profit
+- Total Transactions
+- Average Transaction Rating
+- Revenue Trends (2020–2023)
+- Top Provinces by Transactions
+- Top Provinces by Net Sales
+- Branch Rating vs Transaction Rating Analysis
+- Profit Distribution by Province
+
+## Key Insights
+
+- Kimia Farma generated approximately Rp346.96B in sales and Rp98.54B in profit from 672K transactions between 2020 and 2023.
+- Sales and transaction volumes are concentrated in Jawa Barat, Jawa Tengah, Jawa Timur, and Sumatera Utara.
+- Revenue trends show relatively stable performance across the analyzed years.
+- Several branches show high branch ratings but lower transaction ratings, indicating potential issues in transaction service quality.
+- Profit contribution varies significantly across provinces, highlighting opportunities for regional optimization.
+
+## Business Recommendation 
+1. Improve Transaction Experience
+Branches with high branch ratings but lower transaction ratings should improve:
+- service efficiency
+- cashier workflow
+- queue management
+
+2. Expand in High Performing Regions
+Regions such as Jawa Barat and Jawa Timur show strong demand and could benefit from:
+- additional branches
+- expanded healthcare services
+- increased marketing investment
+
+3. Strengthen Sales in Low Performing Regions
+To improve performance in lower sales regions:
+- implement targeted marketing campaigns
+- introduce promotional programs
+- collaborate with local healthcare providers
+
+4. Optimize Product Strategy
+Profitability can be improved by:
+- promoting higher-margin products
+- introducing product bundles
+- optimizing pricing strategies
