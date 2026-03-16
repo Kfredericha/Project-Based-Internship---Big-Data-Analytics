@@ -17,6 +17,7 @@ This project aims to integrate these datasets into a unified analytical table to
 
 ## Dataset
 [Download Dataset](https://drive.google.com/drive/folders/1DNBK01xV5ymcsyghBO2VBII7bxacGtt0?usp=sharing)
+
 The analysis uses four main datasets:
 
 1. Final Transaction
@@ -47,6 +48,7 @@ Contains product inventory information per branch.
 
 ## Dashboard
 [Full Dashboard](https://lookerstudio.google.com/reporting/2975706f-dccd-4a65-bedb-45ad64e08a43)
+
 An interactive dashboard was created in Looker Studio to visualize business performance.
 The dashboard includes:
 - Total Sales
