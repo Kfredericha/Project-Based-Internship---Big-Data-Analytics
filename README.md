@@ -1,4 +1,4 @@
-# Project Based Internship- Kimia Farma Big Data Analytics
+# Project Based Internship - Kimia Farma Big Data Analytics
 ## Project Overview
 This project analyzes the sales performance of Kimia Farma from 2020 to 2023 by integrating multiple datasets, including transaction, product, branch, and inventory data. Using Google BigQuery for data processing and Looker Studio for visualization, the project builds an interactive dashboard to explore key business metrics such as total sales, profit, transaction volume, regional performance, and customer ratings.
 
